@@ -88,11 +88,14 @@ Quote: “They’ve got the mind of a systems thinker and the heart of a leader.
 ## Meta-Journal
 
 What role are you now ready for? 
+
 I’m ready to lead teams in designing and implementing systems that balance human dynamics, like a growth consultant cum company therapist. Create ease and flow in the operations. Remove the lagging points for the company thus, increase in the revenue.
 
 What surprised you about your own thinking?
+
 I was surprised by how much I underestimated the human side of systems. I thought data and logic would be enough, but empathy and alignment were the real unlocks.
 
 What do you most want your future manager to understand about you? 
+
 I’m not just a problem-solver; I’m a systems builder who thrives on turning complexity into clarity. I’ll ask hard questions, listen deeply, and iterate relentlessly to make the change stick. 
 
