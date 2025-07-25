@@ -14,7 +14,7 @@ When we are saying broken, it means there are bridges which are joining differen
 ##### A leader emerges, day by day.
 
 ## Act 0: The Moment That Moved Me
-### Scene Title: _The pride after the enlightenment_
+### Scene Title: _Breaking Down to Break Through_
 Prompt: “What was one moment during the assignment that made you feel something — pride, frustration, shame, clarity?”
 
 To be honest, it was the first time I encountered the methodology of first principles reasoning. I found myself sitting in front of my laptop, staring at the Data Champion guideline for Round 2, trying to absorb this new approach. Then it struck me: I needed to break every step into smaller parts, find the keywords, and reflect deeply on each one. In that moment, I felt a sense of pride at learning something new. This made the task feel much more organised. By simplifying my approach, I unlocked the answer — and more importantly, I learned to trust my instincts to pivot when needed.
