@@ -3,7 +3,7 @@
 </div>
 
 ## Manifesto line: 
-When we are saying broken, it means there are bridges which are joining different stages of system. So each step is valuable for a system to function properly. If there is neglect at any step, the system will breakdown. Thus,
+When we are saying broken, it means there are bridges which are joining different stages of system. So each step is valuable for a system to function properly. If there is neglect at any step, the system will breakdown. Negligence can be at any level. It can be due to the employers reluctance to hire someone which creates shortage in manpower or the employees who are not ready to take on challenges assigned with their role creating unclarity in decision making. Thus,
 
 ### _“I believe negligence is the root of most broken systems — and I’m learning to fix it.”_
 
