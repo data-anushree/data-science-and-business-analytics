@@ -8,7 +8,10 @@ When we are saying broken, it means there are bridges which are joining differen
 ### _“I believe negligence is the root of most broken systems — and I’m learning to fix it.”_
 
 ## Narrative seed:
-_I used to stress on data. I struggled with identifying core probelm in all the chaos. I learned to break it to break through. Now I lead with clarity._
+#### _I used to stress on data._
+#### _I struggled with identifying core probelm in all the chaos._ 
+#### _I learned to break it to break through._ 
+#### _Now I lead with clarity._
 
 ## Act 0: The Moment That Moved Me
 ### Scene Title: _Breaking Down to Break Through_
