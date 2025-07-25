@@ -1,5 +1,6 @@
-##### Create a scene title for this "my paragraph"
-AI response:
+## Prompt 1 
+My question: Create a scene title for this "my paragraph"
+AI output:
 Sure! Here are some scene title options specifically for your exact passage:
 “The First Principles Epiphany”
 “Breaking It Down to Build It Up”
@@ -9,9 +10,11 @@ Sure! Here are some scene title options specifically for your exact passage:
 “Unpacking the Unknown”
 “From Stuck to Structured”
 “Trusting the Pivot”
+My Takeaway: I picked upo this title - “Breaking It Down to Build It Up”
 
-##### Create a quote for this "my paragraph" : 
-AI response:
+## Prompt 1 
+My question: Create a quote for this "my paragraph"
+AI output:
 Here’s a quote that captures the essence of your reflection:
 “When I broke complexity into first principles, I didn’t just find the answer — I found a new trust in my own ability to think.”
 
