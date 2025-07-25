@@ -22,7 +22,7 @@ To be honest, it was the first time I encountered the methodology of first princ
 Quote: “They didn’t just solve the problem; they found the courage to rethink it.”- mentor
 
 ## Act I: Value Created
-### Scene Title: _The tiny steps towards better future_
+### Scene Title: _A Growth Consultant’s Small Win, Big Impact_
 Prompt: “What did you try to build, and what small win or change did you cause?”
 
 I was creating a solution as a growth consultant for a company whose product was stalling.  I was trying to find any gaps in GTM (go-to-market) execution. So, I talked to the founder, and team members about the challenges they were facing in finishing their tasks. The founder and team needed little more transparency and reliability establishment. With my short exercises, they finally developed mutual understanding which was a big win in terms of more revenue generation in same time duration than before.The small win: a 12% reduction in excess inventory within one quarter, freeing up $50,000 in working capital. This wasn’t just a number—it gave the client breathing room to reinvest in growth. It helped increased delegation, clarity in role, more convincing pricing valuation and other bottlenecks.
@@ -43,7 +43,7 @@ Prompt: Where did things fall apart — technically, emotionally, or structurall
 
 With the first draft, the founder and team were not satisfied. So, it fell through which disappointed me also. They saw me as an outsider which made it hard for them to trust my plans. For them I was a person whose sole job was to point fingers on their jobs. So, there were some trust issues from the employees side on me.
 
-Quote: They’re not just solving problems; they’re the healers.” — My teammate
+Quote: "Solutions fail when trust is missing. I learned that the hard way.” — My teammate
 
 ## Act IV: Reinvention
 ### Scene Title: _The change of heart_
